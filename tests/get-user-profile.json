@@ -1,0 +1,17 @@
+{
+  "machine": "get-user-profile",
+  "expectations": [
+    {
+      "using": {
+        "username": "chalkers"
+      },
+      "outcome": "success"
+    },
+    {
+      "using": {
+        "username": "Invalid username"
+      },
+      "outcome": "notFound"
+    }
+  ]
+}
