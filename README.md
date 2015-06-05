@@ -9,7 +9,7 @@
 Communicate with the Treehouse API to get profile data.
 
 
-## Installation &nbsp; [![NPM version](https://badge.fury.io/js/machinepack-treehouse.svg)](http://badge.fury.io/js/machinepack-treehouse) [![Build Status](https://travis-ci.org/mikermcneil/machinepack-treehouse.png?branch=master)](https://travis-ci.org/mikermcneil/machinepack-treehouse)
+## Installation &nbsp; [![NPM version](https://badge.fury.io/js/machinepack-treehouse.svg)](http://badge.fury.io/js/machinepack-treehouse) [![Build Status](https://travis-ci.org/grntartaglia/machinepack-treehouse.png?branch=master)](https://travis-ci.org/grntartaglia/machinepack-treehouse)
 
 ```sh
 $ npm install machinepack-treehouse
